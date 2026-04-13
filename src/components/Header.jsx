@@ -1,8 +1,7 @@
 export default function Header() {
   return (
     <header style={{
-      textAlign: "center",
-      padding: "40px 20px"
+    padding: "40px 20px"
     }}>
       <h1 style={{ fontSize: "36px" }}>Meu Portfólio</h1>
 
